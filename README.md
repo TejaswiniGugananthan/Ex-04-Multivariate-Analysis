@@ -31,7 +31,9 @@ Find the pairwise correlation of all columns in the dataframe.corr() .
 # STEP 8:
 Save the final data set into the file.
 
-
+# Program
+Name: G.TEJASWINI
+Reg no:
 
 # RESULT:
 Thus the program to perform Multivariate EDA on the given data set is successfully executed.
